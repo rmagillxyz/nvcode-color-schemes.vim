@@ -325,10 +325,10 @@ highlights:
   BufferVisibleSign: "fg bg"
   BufferVisibleTarget: "red bg b"
 
-  BufferInactive: "grey2 bg1"
-  BufferInactiveIndex: "grey2 bg1"
-  BufferInactiveMod: "grey2 bg1"
-  BufferInactiveSign: "grey2 bg1"
+  BufferInactive: "gray2 bg1"
+  BufferInactiveIndex: "gray2 bg1"
+  BufferInactiveMod: "gray2 bg1"
+  BufferInactiveSign: "gray2 bg1"
   BufferInactiveTarget: "red bg1 b"
 
 
