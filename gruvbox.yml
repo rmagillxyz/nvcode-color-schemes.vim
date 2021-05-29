@@ -5,7 +5,8 @@ information:
 
 palette:
   fg: "#EBDBB2"
-  bg: "#282828"
+  # bg: "#282828"
+  bg: "#336633"
 
   red: "#CC241D"
   green: "#98971a"
@@ -318,6 +319,7 @@ highlights:
   BufferCurrentMod: "fg bg"
   BufferCurrentSign: "aqua bg"
   BufferCurrentTarget: "red bg b"
+  BufferCurrentIcon: "aqua blue"
 
   BufferVisible: "fg bg"
   BufferVisibleIndex: "fg bg"
@@ -330,5 +332,4 @@ highlights:
   BufferInactiveMod: "green bg2"
   BufferInactiveSign: "gray_2 bg2"
   BufferInactiveTarget: "red bg2 b"
-
 
