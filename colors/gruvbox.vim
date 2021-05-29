@@ -239,6 +239,6 @@ hi BufferVisibleSign guifg=#ebdbb2 ctermfg=223 guibg=#282828 ctermbg=235 gui=NON
 hi BufferVisibleTarget guifg=#cc241d ctermfg=160 guibg=#282828 ctermbg=235 gui=bold cterm=bold
 hi BufferInactive guifg=#928374 ctermfg=244 guibg=#504945 ctermbg=239 gui=NONE cterm=NONE
 hi BufferInactiveIndex guifg=#928374 ctermfg=244 guibg=#504945 ctermbg=239 gui=NONE cterm=NONE
-hi BufferInactiveMod guifg=#928374 ctermfg=244 guibg=#504945 ctermbg=239 gui=NONE cterm=NONE
+hi BufferInactiveMod guifg=#98971a ctermfg=100 guibg=#504945 ctermbg=239 gui=NONE cterm=NONE
 hi BufferInactiveSign guifg=#928374 ctermfg=244 guibg=#504945 ctermbg=239 gui=NONE cterm=NONE
 hi BufferInactiveTarget guifg=#cc241d ctermfg=160 guibg=#504945 ctermbg=239 gui=bold cterm=bold

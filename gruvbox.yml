@@ -327,7 +327,7 @@ highlights:
 
   BufferInactive: "gray_2 bg2"
   BufferInactiveIndex: "gray_2 bg2"
-  BufferInactiveMod: "gray_2 bg2"
+  BufferInactiveMod: "green bg2"
   BufferInactiveSign: "gray_2 bg2"
   BufferInactiveTarget: "red bg2 b"
 
