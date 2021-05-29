@@ -1,4 +1,4 @@
-[2J[H" Maintainer: John Karlo Cachero <johnguitarizta@gmail.com>
+" Maintainer: John Karlo Cachero <johnguitarizta@gmail.com>
 
 set background=dark
 hi clear
