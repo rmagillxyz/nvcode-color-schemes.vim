@@ -312,3 +312,23 @@ highlights:
 
   debugPc: "- red"
   debugBreakpoint: "red - r"
+
+  BufferCurrent: "fg bg"
+  BufferCurrentIndex: "blue bg"
+  BufferCurrentMod: "fg bg"
+  BufferCurrentSign: "blue bg"
+  BufferCurrentTarget: "red bg b"
+
+  BufferVisible: "fg bg"
+  BufferVisibleIndex: "fg bg"
+  BufferVisibleMod: "fg bg"
+  BufferVisibleSign: "fg bg"
+  BufferVisibleTarget: "red bg b"
+
+  BufferInactive: "grey2 bg1"
+  BufferInactiveIndex: "grey2 bg1"
+  BufferInactiveMod: "grey2 bg1"
+  BufferInactiveSign: "grey2 bg1"
+  BufferInactiveTarget: "red bg1 b"
+
+
