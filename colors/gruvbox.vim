@@ -237,8 +237,8 @@ hi BufferVisibleIndex guifg=#ebdbb2 ctermfg=223 guibg=#282828 ctermbg=235 gui=NO
 hi BufferVisibleMod guifg=#ebdbb2 ctermfg=223 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
 hi BufferVisibleSign guifg=#ebdbb2 ctermfg=223 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
 hi BufferVisibleTarget guifg=#cc241d ctermfg=160 guibg=#282828 ctermbg=235 gui=bold cterm=bold
-hi BufferInactive guifg=#928374 ctermfg=244 guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
-hi BufferInactiveIndex guifg=#928374 ctermfg=244 guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
-hi BufferInactiveMod guifg=#928374 ctermfg=244 guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
-hi BufferInactiveSign guifg=#928374 ctermfg=244 guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
-hi BufferInactiveTarget guifg=#cc241d ctermfg=160 guibg=#3c3836 ctermbg=237 gui=bold cterm=bold
+hi BufferInactive guifg=#928374 ctermfg=244 guibg=#504945 ctermbg=239 gui=NONE cterm=NONE
+hi BufferInactiveIndex guifg=#928374 ctermfg=244 guibg=#504945 ctermbg=239 gui=NONE cterm=NONE
+hi BufferInactiveMod guifg=#928374 ctermfg=244 guibg=#504945 ctermbg=239 gui=NONE cterm=NONE
+hi BufferInactiveSign guifg=#928374 ctermfg=244 guibg=#504945 ctermbg=239 gui=NONE cterm=NONE
+hi BufferInactiveTarget guifg=#cc241d ctermfg=160 guibg=#504945 ctermbg=239 gui=bold cterm=bold
