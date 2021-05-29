@@ -6,8 +6,8 @@ information:
 palette:
   fg: "#EBDBB2"
   # bg: "#282828"
-  bg: "#281801"
-  # bg: "#382101"
+  # bg: "#281801"
+  bg: "#382101"
 
   red: "#CC241D"
   green: "#98971a"
