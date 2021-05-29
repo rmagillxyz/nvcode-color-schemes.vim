@@ -314,9 +314,9 @@ highlights:
   debugBreakpoint: "red - r"
 
   BufferCurrent: "fg bg"
-  BufferCurrentIndex: "blue bg"
+  BufferCurrentIndex: "aqua bg"
   BufferCurrentMod: "fg bg"
-  BufferCurrentSign: "blue bg"
+  BufferCurrentSign: "aqua bg"
   BufferCurrentTarget: "red bg b"
 
   BufferVisible: "fg bg"

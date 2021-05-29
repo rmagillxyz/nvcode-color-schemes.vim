@@ -228,9 +228,9 @@ hi GitGutterDelete guifg=#cc241d ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE ct
 hi debugPc guifg=NONE ctermfg=NONE guibg=#cc241d ctermbg=160 gui=NONE cterm=NONE
 hi debugBreakpoint guifg=#cc241d ctermfg=160 guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi BufferCurrent guifg=#ebdbb2 ctermfg=223 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
-hi BufferCurrentIndex guifg=#458588 ctermfg=66 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
+hi BufferCurrentIndex guifg=#689d6a ctermfg=71 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
 hi BufferCurrentMod guifg=#ebdbb2 ctermfg=223 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
-hi BufferCurrentSign guifg=#458588 ctermfg=66 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
+hi BufferCurrentSign guifg=#689d6a ctermfg=71 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
 hi BufferCurrentTarget guifg=#cc241d ctermfg=160 guibg=#282828 ctermbg=235 gui=bold cterm=bold
 hi BufferVisible guifg=#ebdbb2 ctermfg=223 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
 hi BufferVisibleIndex guifg=#ebdbb2 ctermfg=223 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
