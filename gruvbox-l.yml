@@ -1,7 +1,7 @@
 information:
-  name: lunar
+  name: gruvbox-l
   background: dark
-  author: "Christian Chiarulli <chrisatmachine@gmail.com>"
+  author: "Robert Magill <r@magill.xyz>"
 
 palette:
   fg: "#EBDBB2"
