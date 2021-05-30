@@ -196,7 +196,7 @@ highlights:
   TSMethod: "yellow"
   TSField: "white"
   TSProperty: "cyan"
-  TSConstructor: "purple"
+  TSConstructor: "fg1"
   # Keywords
   # TSConditional: "faded_purple"
   TSConditional: "red"
@@ -208,7 +208,7 @@ highlights:
   TSKeywordOperator: "fg"
   TSOperator: "faded_purple"
   TSException: "blue"
-  TSType: "purple"
+  TSType: "yellow"
   TSTypeBuiltin: "purple"
   TSStructure: "#FF00FF"
   TSInclude: "blue"
