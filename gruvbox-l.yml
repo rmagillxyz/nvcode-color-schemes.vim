@@ -195,7 +195,8 @@ highlights:
   TSProperty: "cyan"
   TSConstructor: "purple"
   # Keywords
-  TSConditional: "grey_blue"
+  # TSConditional: "grey_blue"
+  TSConditional: "red"
   TSRepeat: "blue"
   TSLabel: "light_blue"
   # Does not work for yield and return they should be diff then class and def
