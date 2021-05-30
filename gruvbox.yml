@@ -37,7 +37,8 @@ palette:
   orange: "#d65d0e"
 
   # bg0_s: "#32302f"
-  bg0_s: "#665c54"
+  # bg0_s: "#665c54"
+  bg0_s: "#282828"
   fg4: "#a89984"
   fg3: "#bdae93"
   fg2: "#d5c4a1"
