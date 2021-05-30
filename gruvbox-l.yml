@@ -112,7 +112,7 @@ highlights:
   Type: "yellow"
   StorageClass: "orange"
   Structure: "yellow"
-  Typedef: "yellow"
+  Typedef: "yellow_orange"
   Special: "blue - i"
   SpecialComment: "vertsplit"
   Error: "error_red - br"
