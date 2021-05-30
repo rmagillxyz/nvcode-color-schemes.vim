@@ -33,6 +33,7 @@ palette:
 
   # bg0_s: "#32302f"
   # bg0_s: "#665c54"
+
   bg0_s: "#282651"
   fg4: "#a89984"
   fg3: "#bdae93"
@@ -316,11 +317,11 @@ highlights:
   debugBreakpoint: "red - r"
 
   BufferCurrent: "fg bg"
-  BufferCurrentIndex: "aqua bg"
+  BufferCurrentIndex: "blue_2 bg"
   BufferCurrentMod: "fg bg"
-  BufferCurrentSign: "aqua bg"
+  BufferCurrentSign: "blue_2 bg"
   BufferCurrentTarget: "red bg b"
-  BufferCurrentIcon: "aqua blue"
+  BufferCurrentIcon: "blue_2 blue"
 
   BufferVisible: "fg bg"
   BufferVisibleIndex: "fg bg"
