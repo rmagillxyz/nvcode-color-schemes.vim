@@ -5,11 +5,6 @@ information:
 
 palette:
   fg: "#EBDBB2"
-  # bg: "#282828"
-  # bg: "#281801"
-  # bg: "#382101"
-  # bg: "#3a2200"
-  # bg: "#665c54"
   bg: '#32302f'
 
   red: "#CC241D"
