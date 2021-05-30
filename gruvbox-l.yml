@@ -93,7 +93,7 @@ highlights:
   Float: "red"
   Identifier: "blue"
   Function: "yellow"
-  Statement: "blue"
+  Statement: "cyan"
   Conditional: "grey_blue"
   Repeat: "blue"
   Label: "light_blue"

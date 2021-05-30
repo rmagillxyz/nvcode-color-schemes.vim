@@ -17,7 +17,7 @@ hi Boolean guifg=#d65d0e ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Float guifg=#cc241d ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Identifier guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Function guifg=#d79921 ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Statement guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Statement guifg=#427b58 ctermfg=65 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Conditional guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Repeat guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Label guifg=#7daea3 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
