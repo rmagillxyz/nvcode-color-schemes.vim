@@ -9,9 +9,10 @@ palette:
   # bg: "#3c3836"
 
   # red: "#CC241D"
-  red: "#fb4934"
+  red: "#fb5002"
+  # red: "#fb4934"
   green: "#98971a"
-  yellow_orange: "#d79921"
+  yellow_orange: "#fe8019"
   yellow: "#fabd2f"
   purple: "#b16286"
   # purple: "#d3869b"
@@ -35,13 +36,11 @@ palette:
   bg4: "#7c6f64"
   orange: "#d65d0e"
 
-
   bg0_s: "#282651"
   fg4: "#a89984"
   fg3: "#bdae93"
   fg2: "#d5c4a1"
   fg1: "#ebdbb2"
-  orange_2: "#fe8019"
 
 
   git_green: "#689d6a"
