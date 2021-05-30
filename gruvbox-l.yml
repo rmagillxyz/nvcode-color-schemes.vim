@@ -8,7 +8,8 @@ palette:
   bg: '#32302f'
   # bg: "#3c3836"
 
-  red: "#CC241D"
+  # red: "#CC241D"
+  red: "#fb4934"
   green: "#98971a"
   yellow_orange: "#d79921"
   yellow: "#fabd2f"
