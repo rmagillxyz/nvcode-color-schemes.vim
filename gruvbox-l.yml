@@ -10,10 +10,8 @@ palette:
   red: "#CC241D"
   green: "#98971a"
   yellow: "#d79921"
-  # blue: "#458588"
   blue: '#458588'
   # purple: "#b16286"
-  # magenta: '#b16286'
   purple: '#614a73'
 
   aqua: "#81B88B"
@@ -53,8 +51,9 @@ palette:
   dark_yellow: "#fabd2f"
   grey_blue: "#81A1C1"
   # white: "#D8DEE9"
+  white: "#bdae93"
   # white: '#a89984'
-  white: '#63686d'
+  # white: '#63686d'
   black: "#3b4252"
   line_grey: "#5C6370"
   gutter_fg_grey: "#6A6E7E"
