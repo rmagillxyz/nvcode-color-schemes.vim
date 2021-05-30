@@ -54,7 +54,7 @@ palette:
   line_grey: "#5C6370"
   gutter_fg_grey: "#6A6E7E"
   # cursor_grey: "#2C323C"
-  cursor_grey: "#504945"
+  cursor_grey: "#783228"
 
   visual_grey: "#3E4452"
   menu_grey: "#434C5E"
@@ -93,7 +93,8 @@ highlights:
   Function: "yellow"
   Statement: "blue"
   # Statement: "cyan"
-  Conditional: "grey_blue"
+  # Conditional: "grey_blue"
+  Conditional: "red"
   Repeat: "blue"
   Label: "light_blue"
   Operator: "grey_blue"
