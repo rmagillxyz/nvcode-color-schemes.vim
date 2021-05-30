@@ -17,6 +17,7 @@ palette:
   purple: "#d79921"
   aqua: "#81B88B"
   grey: "#a89984"
+  grey_blue: "#a89984"
   green_2: "#b8bb26"
   light_blue: "#7daea3"
   # cyan: "#8ec07c"
@@ -47,7 +48,6 @@ palette:
   light_green: "#83a598"
   dark_yellow: "#fabd2f"
   # grey_blue: "#81A1C1"
-  grey_blue: "#b16286"
   # white: "#D8DEE9"
   white: "#bdae93"
   # white: '#a89984'
