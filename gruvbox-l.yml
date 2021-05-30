@@ -21,8 +21,8 @@ palette:
   light_blue: "#7daea3"
   purple_2: "#d3869b"
   aqua_2: "#8ec07c"
-  cyan: "#689d6a"
-  vivid_blue: '#076678'
+  cyan: "#8ec07c"
+  vivid_blue: '#458588'
   
   bh0_h: "#1d2021"
   bg0: "#282828"
