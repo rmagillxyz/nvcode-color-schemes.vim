@@ -193,7 +193,7 @@ highlights:
   TSFuncMacro: "yellow"
   TSParameter: "white"
   TSParameterReference: "white"
-  TSMethod: "yellow"
+  TSMethod: "fg1"
   TSField: "white"
   TSProperty: "cyan"
   TSConstructor: "fg1"
