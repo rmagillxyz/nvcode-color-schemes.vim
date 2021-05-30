@@ -12,7 +12,8 @@ palette:
   yellow: "#d79921"
   blue: "#458588"
   # blue: "#83a598"
-  purple: "#b16286"
+  # purple: "#b16286"
+  purple: "#8f3f71"
 
   aqua: "#81B88B"
   grey: "#a89984"
