@@ -106,7 +106,7 @@ highlights:
   SpellCap: "yellow_2"
   SpellLocal: "yellow_2"
   SpellRare: "yellow_2"
-  StatusLine: "fg bg2"
+  StatusLine: "fg gray"
   StatusLineNC: "bg3"
   StatusLineTerm: "fg bg2"
   StatusLineTermNC: "bg2"
