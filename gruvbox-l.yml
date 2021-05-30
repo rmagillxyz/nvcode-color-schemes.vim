@@ -4,9 +4,9 @@ information:
   author: "Robert Magill <r@magill.xyz>"
 
 palette:
-  # fg: "#EBDBB2"
-  fg: "#3c3836"
+  fg: "#EBDBB2"
   bg: '#32302f'
+  # bg: "#3c3836"
 
   red: "#CC241D"
   green: "#98971a"
