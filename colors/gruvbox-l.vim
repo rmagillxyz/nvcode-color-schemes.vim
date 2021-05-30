@@ -7,7 +7,7 @@ if exists('syntax_on')
 endif
 let g:colors_name='gruvbox-l'
 
-hi Normal guifg=#ebdbb2 ctermfg=223 guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
+hi Normal guifg=#ebdbb2 ctermfg=223 guibg=#32302f ctermbg=236 gui=NONE cterm=NONE
 hi Comment guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -42,7 +42,7 @@ hi Underlined guifg=#8ec07c ctermfg=108 gui=underline cterm=underline
 hi Cursor guifg=#515052 ctermfg=239 guibg=#aeafad ctermbg=145 gui=NONE cterm=NONE
 hi ColorColumn guifg=NONE ctermfg=NONE guibg=#783228 ctermbg=238 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=bold cterm=bold
-hi SignColumn guifg=NONE ctermfg=NONE guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
+hi SignColumn guifg=NONE ctermfg=NONE guibg=#32302f ctermbg=236 gui=NONE cterm=NONE
 hi Conceal guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#783228 ctermbg=238 gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#783228 ctermbg=238 gui=NONE cterm=NONE
@@ -82,7 +82,7 @@ hi Visual guifg=NONE ctermfg=NONE guibg=#3e4452 ctermbg=238 gui=NONE cterm=NONE
 hi VisualNOS guifg=#3e4452 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WarningMsg guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#3b4252 ctermfg=238 guibg=#458588 ctermbg=66 gui=NONE cterm=NONE
-hi EndOfBuffer guifg=#3c3836 ctermfg=237 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi EndOfBuffer guifg=#32302f ctermfg=236 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSComment guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi TSError guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctDelimiter guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -108,7 +108,7 @@ hi TSParameter guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi TSParameterReference guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSMethod guifg=#ebdbb2 ctermfg=223 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSField guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSProperty guifg=#8ec07c ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSProperty guifg=#ebdbb2 ctermfg=223 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstructor guifg=#ebdbb2 ctermfg=223 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConditional guifg=#cc241d ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSRepeat guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -120,9 +120,9 @@ hi TSOperator guifg=#7c5872 ctermfg=95 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi TSException guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSType guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTypeBuiltin guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSStructure guifg=#ff00ff ctermfg=201 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSStructure guifg=#8ec07c ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSInclude guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSVariable guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSVariable guifg=#d65d0e ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSVariableBuiltin guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSText guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStrong guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -245,16 +245,16 @@ hi NvimTreeRootFolder guifg=#ebdbb2 ctermfg=223 guibg=NONE ctermbg=NONE gui=bold
 hi NvimTreeExecFile guifg=#23d18b ctermfg=42 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NvimTreeSpecialFile guifg=#ffcc66 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NvimTreeLspDiagnostics guifg=#ff8800 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi BufferCurrent guifg=#ebdbb2 ctermfg=223 guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
-hi BufferCurrentIndex guifg=#458588 ctermfg=66 guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
-hi BufferCurrentMod guifg=#ebdbb2 ctermfg=223 guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
-hi BufferCurrentSign guifg=#458588 ctermfg=66 guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
-hi BufferCurrentTarget guifg=#cc241d ctermfg=160 guibg=#3c3836 ctermbg=237 gui=bold cterm=bold
-hi BufferVisible guifg=#ebdbb2 ctermfg=223 guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
-hi BufferVisibleIndex guifg=#ebdbb2 ctermfg=223 guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
-hi BufferVisibleMod guifg=#ebdbb2 ctermfg=223 guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
-hi BufferVisibleSign guifg=#ebdbb2 ctermfg=223 guibg=#3c3836 ctermbg=237 gui=NONE cterm=NONE
-hi BufferVisibleTarget guifg=#cc241d ctermfg=160 guibg=#3c3836 ctermbg=237 gui=bold cterm=bold
+hi BufferCurrent guifg=#ebdbb2 ctermfg=223 guibg=#32302f ctermbg=236 gui=NONE cterm=NONE
+hi BufferCurrentIndex guifg=#458588 ctermfg=66 guibg=#32302f ctermbg=236 gui=NONE cterm=NONE
+hi BufferCurrentMod guifg=#ebdbb2 ctermfg=223 guibg=#32302f ctermbg=236 gui=NONE cterm=NONE
+hi BufferCurrentSign guifg=#458588 ctermfg=66 guibg=#32302f ctermbg=236 gui=NONE cterm=NONE
+hi BufferCurrentTarget guifg=#cc241d ctermfg=160 guibg=#32302f ctermbg=236 gui=bold cterm=bold
+hi BufferVisible guifg=#ebdbb2 ctermfg=223 guibg=#32302f ctermbg=236 gui=NONE cterm=NONE
+hi BufferVisibleIndex guifg=#ebdbb2 ctermfg=223 guibg=#32302f ctermbg=236 gui=NONE cterm=NONE
+hi BufferVisibleMod guifg=#ebdbb2 ctermfg=223 guibg=#32302f ctermbg=236 gui=NONE cterm=NONE
+hi BufferVisibleSign guifg=#ebdbb2 ctermfg=223 guibg=#32302f ctermbg=236 gui=NONE cterm=NONE
+hi BufferVisibleTarget guifg=#cc241d ctermfg=160 guibg=#32302f ctermbg=236 gui=bold cterm=bold
 hi BufferInactive guifg=#6a6e7e ctermfg=243 guibg=#2f343f ctermbg=237 gui=NONE cterm=NONE
 hi BufferInactiveIndex guifg=#6a6e7e ctermfg=243 guibg=#2f343f ctermbg=237 gui=NONE cterm=NONE
 hi BufferInactiveMod guifg=#6a6e7e ctermfg=243 guibg=#2f343f ctermbg=237 gui=NONE cterm=NONE
@@ -265,4 +265,4 @@ hi IndentBlanklineContextChar guifg=#767a8b ctermfg=244 guibg=NONE ctermbg=NONE 
 hi DashboardHeader guifg=#88c0d0 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DashboardCenter guifg=#d65d0e ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DashboardFooter guifg=#83a598 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi WhichKeyFloat guifg=#3c3836 ctermfg=237 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi WhichKeyFloat guifg=#32302f ctermfg=236 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

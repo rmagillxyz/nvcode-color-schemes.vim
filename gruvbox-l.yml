@@ -5,8 +5,8 @@ information:
 
 palette:
   fg: "#EBDBB2"
-  # bg: '#32302f'
-  bg: "#3c3836"
+  bg: '#32302f'
+  # bg: "#3c3836"
 
   red: "#CC241D"
   green: "#98971a"
@@ -195,7 +195,7 @@ highlights:
   TSParameterReference: "white"
   TSMethod: "fg1"
   TSField: "white"
-  TSProperty: "cyan"
+  TSProperty: "fg1"
   TSConstructor: "fg1"
   # Keywords
   # TSConditional: "faded_purple"
@@ -210,10 +210,10 @@ highlights:
   TSException: "blue"
   TSType: "yellow"
   TSTypeBuiltin: "purple"
-  TSStructure: "#FF00FF"
+  TSStructure: "aqua"
   TSInclude: "blue"
   # Variable
-  TSVariable: "white"
+  TSVariable: "orange"
   TSVariableBuiltin: "white"
   # Text
   TSText: "#FFFF00"
