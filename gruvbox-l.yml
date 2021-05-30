@@ -126,7 +126,7 @@ highlights:
   Conceal: "line_grey"
   CursorColumn: "- cursor_grey"
   # CursorLine: "- cursor_grey"
-  CursorLine: "#3c3836"
+  CursorLine: "- #3c3836"
   Directory: "blue"
   DiffAdd: "black green"
   DiffChange: "yellow - u"
