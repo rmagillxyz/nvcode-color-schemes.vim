@@ -5,10 +5,12 @@ information:
 
 palette:
   fg: "#EBDBB2"
+  # fg: '#f2e5bc'
   bg: '#32302f'
   # bg: "#3c3836"
 
   red: "#CC230D"
+  faded_red: '#9d0006'
   # red: "#b65619"
   # red: "#fb5002"
   # red: "#fb4934"
@@ -98,7 +100,7 @@ highlights:
   Statement: "blue"
   # Statement: "cyan"
   # Conditional: "faded_purple"
-  Conditional: "red"
+  Conditional: "faded_red"
   Repeat: "blue"
   Label: "light_blue"
   Operator: "fg"
