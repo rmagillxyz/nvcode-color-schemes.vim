@@ -4,7 +4,8 @@ information:
   author: "Robert Magill <r@magill.xyz>"
 
 palette:
-  fg: "#EBDBB2"
+  # fg: "#EBDBB2"
+  fg: "#3c3836"
   bg: '#32302f'
 
   red: "#CC241D"
