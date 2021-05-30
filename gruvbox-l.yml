@@ -11,13 +11,14 @@ palette:
   red: "#CC241D"
   green: "#98971a"
   yellow: "#d79921"
-  # blue: '#458588'
-  blue: '#1b668f'
+  blue: '#458588'
   purple: "#d79921"
   light_blue: "#81B88B"
   aqua: "#7daea3"
   grey: "#a89984"
-  grey_blue: "#b16286"
+  # grey_blue: "#b16286"
+  # grey_blue: "#9e4d85"
+  grey_blue: "#7c5872"
   green_2: "#b8bb26"
   # cyan: "#427b58"
   vivid_blue: '#458588'
