@@ -49,7 +49,7 @@ hi CursorLine guifg=NONE ctermfg=NONE guibg=#783228 ctermbg=238 gui=NONE cterm=N
 hi Directory guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DiffAdd guifg=#3b4252 ctermfg=238 guibg=#98971a ctermbg=100 gui=NONE cterm=NONE
 hi DiffChange guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=underline cterm=underline
-hi DiffDelete guifg=#3b4252 ctermfg=238 guibg=#cc230d ctermbg=160 gui=NONE cterm=NONE
+hi DiffDelete guifg=#3b4252 ctermfg=238 guibg=#fb4934 ctermbg=203 gui=NONE cterm=NONE
 hi DiffText guifg=#3b4252 ctermfg=238 guibg=#fabd2f ctermbg=214 gui=NONE cterm=NONE
 hi ErrorMsg guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VertSplit guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -95,7 +95,7 @@ hi TSStringRegex guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cter
 hi TSString guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStringEscape guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSCharacter guifg=#d65d0e ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSNumber guifg=#cc230d ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSNumber guifg=#fb4934 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSBoolean guifg=#d65d0e ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSFloat guifg=#cc230d ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSAnnotation guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
