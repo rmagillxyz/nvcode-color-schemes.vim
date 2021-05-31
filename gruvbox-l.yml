@@ -10,11 +10,12 @@ palette:
   bg: '#363636'
   # bg: "#3c3836"
 
-  red: "#CC230D"
-  # faded_red: '#9d0006'
+  error_red: "#CC230D"
+  faded_red: "#F44747"
   faded_red: '#fb4934'
+  # faded_red: '#9d0006'
   # red: "#b65619"
-  # red: "#fb5002"
+  red: "#fb5002"
   # red: "#fb4934"
   green: "#98971a"
   yellow_orange: "#fe8019"
@@ -50,7 +51,6 @@ palette:
 
   git_green: "#689d6a"
   # ----
-  error_red: "#F44747"
   light_green: "#83a598"
   dark_yellow: "#fabd2f"
   # faded_purple: "#81A1C1"
@@ -206,7 +206,8 @@ highlights:
   TSConstructor: "fg1"
   # Keywords
   # TSConditional: "faded_purple"
-  TSConditional: "red"
+  # TSConditional: "error_red"
+  TSConditional: "faded_red"
   TSRepeat: "blue"
   TSLabel: "light_blue"
   # Does not work for yield and return they should be diff then class and def
