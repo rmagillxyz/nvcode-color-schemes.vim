@@ -11,7 +11,8 @@ palette:
   # bg: "#3c3836"
 
   red: "#CC230D"
-  faded_red: '#9d0006'
+  # faded_red: '#9d0006'
+  faded_red: '#fb4934'
   # red: "#b65619"
   # red: "#fb5002"
   # red: "#fb4934"
@@ -70,7 +71,7 @@ palette:
   warning_orange: "#ff8800"
   info_yellow: "#FFCC66"
   search_blue: "#1da1f2"
-  symlink: "#29B8D8"
+  symlink: "#29b8c2"
   executable: "#23D18B"
   tabfill: "#292D38"
   bg_inactive: "#2F343F"
@@ -109,7 +110,8 @@ highlights:
   Exception: "red"
   PreProc: "aqua"
   Include: "aqua"
-  Define: "aqua"
+  # Define: "aqua"
+  Define: "light_blue"
   Title: "green"
   Macro: "blue"
   PreCondit: "aqua"
