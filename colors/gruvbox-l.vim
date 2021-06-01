@@ -7,6 +7,7 @@ if exists('syntax_on')
 endif
 let g:colors_name='gruvbox-l'
 
+hi FloatermNC guifg=#a89984 ctermfg=138 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#ebdbb2 ctermfg=223 guibg=#363636 ctermbg=237 gui=NONE cterm=NONE
 hi Comment guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
