@@ -83,7 +83,7 @@ hi Visual guifg=NONE ctermfg=NONE guibg=#3e4452 ctermbg=238 gui=NONE cterm=NONE
 hi VisualNOS guifg=#3e4452 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WarningMsg guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#3b4252 ctermfg=238 guibg=#458588 ctermbg=66 gui=NONE cterm=NONE
-hi EndOfBuffer guifg=#1da1f2 ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi EndOfBuffer guifg=#363636 ctermfg=237 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSComment guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi TSError guifg=#cc230d ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctDelimiter guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -267,3 +267,7 @@ hi DashboardHeader guifg=#88c0d0 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE ct
 hi DashboardCenter guifg=#d65d0e ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DashboardFooter guifg=#83a598 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WhichKeyFloat guifg=#363636 ctermfg=237 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi HopNextKey guifg=#1da1f2 ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi HopNextKey1 guifg=#b8bb26 ctermfg=142 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi HopNextKey2 guifg=#fe8019 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi HopUnmatched guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

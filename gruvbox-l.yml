@@ -173,8 +173,7 @@ highlights:
   VisualNOS: "visual_grey"
   WarningMsg: "yellow"
   WildMenu: "black blue"
-  # EndOfBuffer: "bg"
-  EndOfBuffer: "search_blue"
+  EndOfBuffer: "bg"
   
 
   # -- Start Treesitter --
@@ -419,6 +418,16 @@ highlights:
 
   WhichKeyFloat: "bg"
 
+  HopNextKey: "search_blue"                                                  
+  HopNextKey1 : "green_2"     
+  HopNextKey2 : "yellow_orange" 
+  HopUnmatched: "blue"         
+
+      # Highlight used for the mono-sequence keys (i.e. sequence of 1).
+      # Highlight used for the first key in a sequence.
+      # Highlight used for the second and remaining keys in a sequence.
+      # Highlight used for unmatched part of the buffer when running a Hop command/ Lua functions.
+
   # terminal: "bg red green yellow blue magenta cyan silver gray red green yellow blue magenta cyan fg"
   # -- Other junk you can define --
   # Debug
@@ -438,3 +447,5 @@ highlights:
   # MoreMsg: "green - br"
   # Question: "cyan - br"
   # Directory: "blue - b"
+
+
