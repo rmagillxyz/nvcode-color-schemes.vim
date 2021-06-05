@@ -173,7 +173,8 @@ highlights:
   VisualNOS: "visual_grey"
   WarningMsg: "yellow"
   WildMenu: "black blue"
-  EndOfBuffer: "bg"
+  # EndOfBuffer: "bg"
+  EndOfBuffer: "search_blue"
   
 
   # -- Start Treesitter --
