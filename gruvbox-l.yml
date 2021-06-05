@@ -75,7 +75,7 @@ palette:
   executable: "#23D18B"
   tabfill: "#292D38"
   # bg_inactive: "#2F343F"
-  bg_inactive: "#4c566a"
+  bg_inactive: "#3b4252"
   # bg_inactive: "#AEAFAD"
   # bg_inactive: "#504946"
   cursor_fg: "#515052"
