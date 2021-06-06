@@ -24,8 +24,8 @@ palette:
   # purple: "#d3869b"
   # light_blue: "#81B88B"
   light_blue: "#83a598"
-  # aqua: "#7daea3"
-  aqua: "#8ec07c"
+  aqua: "#7daea3"
+  # aqua: "#8ec07c"
   grey: "#a89984"
   faded_purple: "#7c5872"
   green_2: "#b8bb26"
@@ -146,7 +146,7 @@ highlights:
   VertSplit: "vertsplit"
   Folded: "line_grey"
   FoldColumn: ""
-  IncSearch: "- aqua"
+  IncSearch: "- blue"
   LineNr: "gutter_fg_grey"
   NonText: "special_grey"
   Pmenu: "white menu_grey"
@@ -421,7 +421,7 @@ highlights:
   HopNextKey: "search_blue"                                                  
   HopNextKey1 : "green_2"     
   HopNextKey2 : "yellow_orange" 
-  HopUnmatched: "blue"         
+  HopUnmatched: "vertsplit"         
 
       # Highlight used for the mono-sequence keys (i.e. sequence of 1).
       # Highlight used for the first key in a sequence.

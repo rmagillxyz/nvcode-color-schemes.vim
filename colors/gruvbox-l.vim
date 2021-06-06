@@ -25,12 +25,12 @@ hi Label guifg=#83a598 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Operator guifg=#ebdbb2 ctermfg=223 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Keyword guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Exception guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi PreProc guifg=#8ec07c ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Include guifg=#8ec07c ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi PreProc guifg=#7daea3 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Include guifg=#7daea3 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Define guifg=#83a598 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Title guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Macro guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi PreCondit guifg=#8ec07c ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi PreCondit guifg=#7daea3 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Type guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StorageClass guifg=#d65d0e ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Structure guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -56,7 +56,7 @@ hi ErrorMsg guifg=#cc230d ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NON
 hi VertSplit guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Folded guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi FoldColumn guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi IncSearch guifg=NONE ctermfg=NONE guibg=#8ec07c ctermbg=108 gui=NONE cterm=NONE
+hi IncSearch guifg=NONE ctermfg=NONE guibg=#458588 ctermbg=66 gui=NONE cterm=NONE
 hi LineNr guifg=#6a6e7e ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NonText guifg=#3b4048 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Pmenu guifg=#bdae93 ctermfg=144 guibg=#434c5e ctermbg=239 gui=NONE cterm=NONE
@@ -121,7 +121,7 @@ hi TSOperator guifg=#7c5872 ctermfg=95 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi TSException guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSType guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTypeBuiltin guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSStructure guifg=#8ec07c ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSStructure guifg=#7daea3 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSInclude guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSVariable guifg=#d65d0e ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSVariableBuiltin guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -270,4 +270,4 @@ hi WhichKeyFloat guifg=#363636 ctermfg=237 guibg=NONE ctermbg=NONE gui=NONE cter
 hi HopNextKey guifg=#1da1f2 ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi HopNextKey1 guifg=#b8bb26 ctermfg=142 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi HopNextKey2 guifg=#fe8019 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi HopUnmatched guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi HopUnmatched guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
