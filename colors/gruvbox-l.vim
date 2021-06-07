@@ -203,7 +203,7 @@ hi StartifyHeader guifg=#83a598 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cte
 hi StartifySection guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StartifyFooter guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WhichKey guifg=#fb4934 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi WhichKeySeperator guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi WhichKeySeperator guifg=#ebdbb2 ctermfg=223 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WhichKeyGroup guifg=#1da1f2 ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WhichKeyDesc guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi diffAdded guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

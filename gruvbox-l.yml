@@ -9,6 +9,20 @@ palette:
   # bg: '#32302f'
   bg: '#363636'
   # bg: "#3c3836"
+  
+  bh0_h: "#1d2021"
+  bg0: "#282828"
+  bg1: "#3c3836"
+  bg2: "#504945"
+  bg3: "#665c54"
+  bg4: "#7c6f64"
+  orange: "#d65d0e"
+
+  bg0_s: "#282651"
+  fg4: "#a89984"
+  fg3: "#bdae93"
+  fg2: "#d5c4a1"
+  fg1: "#ebdbb2"
 
   error_red: "#CC230D"
   faded_red: "#F44747"
@@ -33,21 +47,6 @@ palette:
   # cyan: '#689d6a'
   blue: '#458588'
   # vivid_blue: '#458588'
-  
-  bh0_h: "#1d2021"
-  bg0: "#282828"
-  bg1: "#3c3836"
-  bg2: "#504945"
-  bg3: "#665c54"
-  bg4: "#7c6f64"
-  orange: "#d65d0e"
-
-  bg0_s: "#282651"
-  fg4: "#a89984"
-  fg3: "#bdae93"
-  fg2: "#d5c4a1"
-  fg1: "#ebdbb2"
-
 
   git_green: "#689d6a"
   # ----
@@ -328,7 +327,7 @@ highlights:
   # -- END Startify --
   # -- START WhichKey --
   WhichKey: "faded_red"
-  WhichKeySeperator: "green"
+  WhichKeySeperator: "fg"
   WhichKeyGroup: "vivid_blue"
   WhichKeyDesc: "blue"
   # -- END WhichKey --
