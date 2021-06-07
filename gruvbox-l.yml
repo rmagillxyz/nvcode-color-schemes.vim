@@ -32,7 +32,7 @@ palette:
   cyan: "#8ec07c"
   # cyan: '#689d6a'
   blue: '#458588'
-  vivid_blue: '#458588'
+  # vivid_blue: '#458588'
   
   bh0_h: "#1d2021"
   bg0: "#282828"
@@ -70,7 +70,7 @@ palette:
   vertsplit: "#4C566A"
   warning_orange: "#ff8800"
   info_yellow: "#FFCC66"
-  search_blue: "#1da1f2"
+  vivid_blue: "#1da1f2"
   symlink: "#29b8c2"
   executable: "#23D18B"
   tabfill: "#292D38"
@@ -327,7 +327,7 @@ highlights:
   StartifyFooter: "green"
   # -- END Startify --
   # -- START WhichKey --
-  WhichKey: "purple"
+  WhichKey: "faded_red"
   WhichKeySeperator: "green"
   WhichKeyGroup: "vivid_blue"
   WhichKeyDesc: "blue"
@@ -418,7 +418,7 @@ highlights:
 
   WhichKeyFloat: "bg"
 
-  HopNextKey: "search_blue"                                                  
+  HopNextKey: "vivid_blue"                                                  
   HopNextKey1 : "green_2"     
   HopNextKey2 : "yellow_orange" 
   HopUnmatched: "vertsplit"         
