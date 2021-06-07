@@ -202,10 +202,10 @@ hi StartifySlash guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm
 hi StartifyHeader guifg=#83a598 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StartifySection guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StartifyFooter guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi WhichKey guifg=#fb4934 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi WhichKey guifg=#b8bb26 ctermfg=142 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WhichKeySeperator guifg=#ebdbb2 ctermfg=223 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi WhichKeyGroup guifg=#1da1f2 ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi WhichKeyDesc guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi WhichKeyGroup guifg=#ebdbb2 ctermfg=223 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi WhichKeyDesc guifg=#8ec07c ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi diffAdded guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi diffRemoved guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi diffFileId guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=bold,reverse cterm=bold,reverse

@@ -326,10 +326,10 @@ highlights:
   StartifyFooter: "green"
   # -- END Startify --
   # -- START WhichKey --
-  WhichKey: "faded_red"
+  WhichKey: "green_2"
   WhichKeySeperator: "fg"
-  WhichKeyGroup: "vivid_blue"
-  WhichKeyDesc: "blue"
+  WhichKeyGroup: "fg"
+  WhichKeyDesc: "cyan"
   # -- END WhichKey --
   #
   # old stuff
