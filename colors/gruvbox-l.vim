@@ -11,7 +11,7 @@ hi FloatermNC guifg=#a89984 ctermfg=138 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi Normal guifg=#ebdbb2 ctermfg=223 guibg=#363636 ctermbg=237 gui=NONE cterm=NONE
 hi Comment guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi String guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi String guifg=#83a598 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#d65d0e ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Number guifg=#83a598 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Boolean guifg=#d65d0e ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -37,7 +37,7 @@ hi Structure guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi Typedef guifg=#fe8019 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Special guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi SpecialComment guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Error guifg=#cc230d ctermfg=160 guibg=NONE ctermbg=NONE gui=bold,reverse cterm=bold,reverse
+hi Error guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=bold,reverse cterm=bold,reverse
 hi Todo guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui=bold,italic cterm=bold,italic
 hi Underlined guifg=#8ec07c ctermfg=108 gui=underline cterm=underline
 hi Cursor guifg=#515052 ctermfg=239 guibg=#aeafad ctermbg=145 gui=NONE cterm=NONE
@@ -52,7 +52,7 @@ hi DiffAdd guifg=#3b4252 ctermfg=238 guibg=#98971a ctermbg=100 gui=NONE cterm=NO
 hi DiffChange guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi DiffDelete guifg=#3b4252 ctermfg=238 guibg=#fb4934 ctermbg=203 gui=NONE cterm=NONE
 hi DiffText guifg=#3b4252 ctermfg=238 guibg=#fabd2f ctermbg=214 gui=NONE cterm=NONE
-hi ErrorMsg guifg=#cc230d ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi ErrorMsg guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VertSplit guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Folded guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi FoldColumn guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -67,7 +67,7 @@ hi Question guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui=NONE cterm=NON
 hi QuickFixLine guifg=NONE ctermfg=NONE guibg=#5c6370 ctermbg=241 gui=NONE cterm=NONE
 hi Search guifg=NONE ctermfg=NONE guibg=#5c6370 ctermbg=241 gui=NONE cterm=NONE
 hi SpecialKey guifg=#3b4048 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi SpellBad guifg=#cc230d ctermfg=160 guibg=NONE ctermbg=NONE gui=underline cterm=underline
+hi SpellBad guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi SpellCap guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellLocal guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellRare guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -85,7 +85,7 @@ hi WarningMsg guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi WildMenu guifg=#3b4252 ctermfg=238 guibg=#458588 ctermbg=66 gui=NONE cterm=NONE
 hi EndOfBuffer guifg=#363636 ctermfg=237 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSComment guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=italic cterm=italic
-hi TSError guifg=#cc230d ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSError guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctDelimiter guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctBracket guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctSpecial guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -187,9 +187,9 @@ hi CocExplorerFileReadonly guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui
 hi CocExplorerFileModified guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerFileHidden guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerHelpLine guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi EasyMotionTarget guifg=#cc230d ctermfg=160 guibg=NONE ctermbg=NONE gui=bold cterm=bold
-hi EasyMotionTarget2First guifg=#cc230d ctermfg=160 guibg=NONE ctermbg=NONE gui=bold cterm=bold
-hi EasyMotionTarget2Second guifg=#cc230d ctermfg=160 guibg=NONE ctermbg=NONE gui=bold cterm=bold
+hi EasyMotionTarget guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=bold cterm=bold
+hi EasyMotionTarget2First guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=bold cterm=bold
+hi EasyMotionTarget2Second guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi EasyMotionShade guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StartifyNumber guifg=#b65619 ctermfg=130 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StartifySelect guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -218,11 +218,11 @@ hi GitSignsAdd guifg=#587c0c ctermfg=64 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi GitSignsChange guifg=#0c7d9d ctermfg=31 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi GitSignsDelete guifg=#94151b ctermfg=88 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsUnderlineHint guifg=#a89984 ctermfg=138 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi LspDiagnosticsSignError guifg=#cc230d ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LspDiagnosticsSignError guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsSignWarning guifg=#ff8800 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsSignInformation guifg=#ffcc66 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsSignHint guifg=#1da1f2 ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi LspDiagnosticsVirtualTextError guifg=#cc230d ctermfg=160 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LspDiagnosticsVirtualTextError guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsVirtualTextWarning guifg=#ff8800 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsVirtualTextInformation guifg=#ffcc66 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsVirtualTextHint guifg=#1da1f2 ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

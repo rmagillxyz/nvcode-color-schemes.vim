@@ -24,7 +24,8 @@ palette:
   fg2: "#d5c4a1"
   fg1: "#ebdbb2"
 
-  error_red: "#CC230D"
+  # error_red: "#CC230D"
+  error_red: "#fb5002"
   faded_red: "#F44747"
   faded_red: '#fb4934'
   # faded_red: '#9d0006'
@@ -95,7 +96,7 @@ highlights:
 
   Comment: "vertsplit - i"
   Constant: "yellow"
-  String: "green"
+  String: "light_blue"
   Character: "orange"
   Number: "light_green"
   Boolean: "orange"
