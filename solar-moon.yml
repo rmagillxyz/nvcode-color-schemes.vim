@@ -28,7 +28,9 @@ palette:
 # fg: "#EBDBB2"
   fg: "#ffffff"
   # bg: '#00005f'
-  bg: "#070036"
+  # bg: "#070036"
+  # bg: "#000066"
+  bg: '#363636'
 
   orange: "#d65d0e"
 
