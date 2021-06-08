@@ -41,8 +41,7 @@ palette:
   error_red: "#F44747"
   faded_red: '#fb4934'
   red: "#B52A5B"
-  # blue: "#bd93f9"
-  blue: "#bd11f9"
+  blue: "#bd93f9"
   yellow: "#8897F4"
   yellow_orange: "#fe8019"
   green: "#FF4971"
