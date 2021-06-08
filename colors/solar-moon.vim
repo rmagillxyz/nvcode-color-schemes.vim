@@ -34,7 +34,7 @@ hi PreCondit guifg=#c2de28 ctermfg=148 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi Type guifg=#8897f4 ctermfg=105 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StorageClass guifg=#a89984 ctermfg=138 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Structure guifg=#8897f4 ctermfg=105 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Typedef guifg=#fe8019 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Typedef guifg=#a8007f ctermfg=126 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Special guifg=#bd93f9 ctermfg=141 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi SpecialComment guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Error guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=bold,reverse cterm=bold,reverse
@@ -269,5 +269,5 @@ hi DashboardFooter guifg=#83a598 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE ct
 hi WhichKeyFloat guifg=#363636 ctermfg=237 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi HopNextKey guifg=#1da1f2 ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi HopNextKey1 guifg=#b8bb26 ctermfg=142 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi HopNextKey2 guifg=#fe8019 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi HopNextKey2 guifg=#a8007f ctermfg=126 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi HopUnmatched guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

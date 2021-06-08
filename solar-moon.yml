@@ -44,12 +44,12 @@ palette:
   red: "#B52A5B"
   blue: "#bd93f9"
   yellow: "#8897F4"
-  yellow_orange: "#fe8019"
   green: "#FF4971"
   magenta: "#E9729D"
   cyan: "#F18FB0"
   white: "#f1c4e0"
   black: "#a8007f"
+  yellow_orange: "#a8007f"
   # ------------------
 
   light_blue: "#83a598"
