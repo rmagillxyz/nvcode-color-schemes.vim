@@ -190,7 +190,7 @@ highlights:
   # Not sure about this guy
   TSConstMacro: "light_blue"
   TSStringRegex: "aqua"
-  TSString: "green"
+  TSString: "light_blue"
   TSStringEscape: "dark_yellow"
   TSCharacter: "orange"
   TSNumber: "faded_red"
