@@ -26,13 +26,14 @@ palette:
 #   cursor #f1c4e0 #f1c4e0
 
 # fg: "#EBDBB2"
-  fg: "#ffffff"
+  fg: "#f1c4e0"
   # bg: '#00005f'
   # bg: "#070036"
   # bg: "#000066"
   bg: '#363636'
 
-  orange: "#d65d0e"
+  # orange: "#d65d0e"
+  orange: "#a89984"
 
   fg4: "#a89984"
   fg1: "#ebdbb2"
