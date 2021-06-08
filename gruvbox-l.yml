@@ -189,7 +189,7 @@ highlights:
   TSConstBuiltin: "blue"
   # Not sure about this guy
   TSConstMacro: "light_blue"
-  TSStringRegex: "green"
+  TSStringRegex: "aqua"
   TSString: "green"
   TSStringEscape: "dark_yellow"
   TSCharacter: "orange"
