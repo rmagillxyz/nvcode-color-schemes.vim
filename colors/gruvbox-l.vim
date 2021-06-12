@@ -256,11 +256,11 @@ hi BufferVisibleIndex guifg=#ebdbb2 ctermfg=223 guibg=#363636 ctermbg=237 gui=NO
 hi BufferVisibleMod guifg=#ebdbb2 ctermfg=223 guibg=#363636 ctermbg=237 gui=NONE cterm=NONE
 hi BufferVisibleSign guifg=#ebdbb2 ctermfg=223 guibg=#363636 ctermbg=237 gui=NONE cterm=NONE
 hi BufferVisibleTarget guifg=#b65619 ctermfg=130 guibg=#363636 ctermbg=237 gui=bold cterm=bold
-hi BufferInactive guifg=#6a6e7e ctermfg=243 guibg=#595e68 ctermbg=59 gui=NONE cterm=NONE
-hi BufferInactiveIndex guifg=#6a6e7e ctermfg=243 guibg=#595e68 ctermbg=59 gui=NONE cterm=NONE
-hi BufferInactiveMod guifg=#6a6e7e ctermfg=243 guibg=#595e68 ctermbg=59 gui=NONE cterm=NONE
-hi BufferInactiveSign guifg=#6a6e7e ctermfg=243 guibg=#595e68 ctermbg=59 gui=NONE cterm=NONE
-hi BufferInactiveTarget guifg=#b65619 ctermfg=130 guibg=#595e68 ctermbg=59 gui=bold cterm=bold
+hi BufferInactive guifg=#6a6e7e ctermfg=243 guibg=#504946 ctermbg=239 gui=NONE cterm=NONE
+hi BufferInactiveIndex guifg=#6a6e7e ctermfg=243 guibg=#504946 ctermbg=239 gui=NONE cterm=NONE
+hi BufferInactiveMod guifg=#6a6e7e ctermfg=243 guibg=#504946 ctermbg=239 gui=NONE cterm=NONE
+hi BufferInactiveSign guifg=#6a6e7e ctermfg=243 guibg=#504946 ctermbg=239 gui=NONE cterm=NONE
+hi BufferInactiveTarget guifg=#b65619 ctermfg=130 guibg=#504946 ctermbg=239 gui=bold cterm=bold
 hi CodiVirtualText guifg=#6395ec ctermfg=69 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi IndentBlanklineContextChar guifg=#767a8b ctermfg=244 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DashboardHeader guifg=#88c0d0 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
