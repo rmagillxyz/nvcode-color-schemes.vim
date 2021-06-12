@@ -41,12 +41,12 @@ hi Error guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=bold,reverse cter
 hi Todo guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui=bold,italic cterm=bold,italic
 hi Underlined guifg=#8ec07c ctermfg=108 gui=underline cterm=underline
 hi Cursor guifg=#515052 ctermfg=239 guibg=#aeafad ctermbg=145 gui=NONE cterm=NONE
-hi ColorColumn guifg=NONE ctermfg=NONE guibg=#4f5954 ctermbg=240 gui=NONE cterm=NONE
+hi ColorColumn guifg=NONE ctermfg=NONE guibg=#464746 ctermbg=238 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi SignColumn guifg=NONE ctermfg=NONE guibg=#363636 ctermbg=237 gui=NONE cterm=NONE
 hi Conceal guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi CursorColumn guifg=NONE ctermfg=NONE guibg=#4f5954 ctermbg=240 gui=NONE cterm=NONE
-hi CursorLine guifg=NONE ctermfg=NONE guibg=#4f5954 ctermbg=240 gui=NONE cterm=NONE
+hi CursorColumn guifg=NONE ctermfg=NONE guibg=#464746 ctermbg=238 gui=NONE cterm=NONE
+hi CursorLine guifg=NONE ctermfg=NONE guibg=#464746 ctermbg=238 gui=NONE cterm=NONE
 hi Directory guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DiffAdd guifg=#3b4252 ctermfg=238 guibg=#98971a ctermbg=100 gui=NONE cterm=NONE
 hi DiffChange guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=underline cterm=underline
@@ -71,10 +71,10 @@ hi SpellBad guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=underline cter
 hi SpellCap guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellLocal guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellRare guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi StatusLine guifg=#bdae93 ctermfg=144 guibg=#4f5954 ctermbg=240 gui=NONE cterm=NONE
+hi StatusLine guifg=#bdae93 ctermfg=144 guibg=#464746 ctermbg=238 gui=NONE cterm=NONE
 hi StatusLineNC guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi StatusLineTerm guifg=#bdae93 ctermfg=144 guibg=#4f5954 ctermbg=240 gui=NONE cterm=NONE
-hi StatusLineTermNC guifg=#4f5954 ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi StatusLineTerm guifg=#bdae93 ctermfg=144 guibg=#464746 ctermbg=238 gui=NONE cterm=NONE
+hi StatusLineTermNC guifg=#464746 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TabLine guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TabLineSel guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TabLineFill guifg=NONE ctermfg=NONE guibg=#292d38 ctermbg=236 gui=NONE cterm=NONE
