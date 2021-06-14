@@ -430,6 +430,10 @@ highlights:
   HopNextKey2 : "yellow_orange" 
   HopUnmatched: "vertsplit"         
 
+  HighlightedyankRegion: "- vivid_blue" 
+
+    # highlight HighlightedyankRegion cterm=reverse gui=reverse
+
       # Highlight used for the mono-sequence keys (i.e. sequence of 1).
       # Highlight used for the first key in a sequence.
       # Highlight used for the second and remaining keys in a sequence.
