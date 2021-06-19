@@ -44,7 +44,9 @@ palette:
   grey: "#a89984"
   faded_purple: "#7c5872"
   green_2: "#b8bb26"
-  cyan: "#8ec07c"
+  # cyan: "#8ec07c"
+  # cyan: "#00ffff"
+  cyan: "#33c6bd"
   # cyan: '#689d6a'
   blue: '#458588'
   # vivid_blue: '#458588'
@@ -349,7 +351,8 @@ highlights:
   diffOldFile: "red"
   # ToolbarLine: ". darkgray"
   # ToolbarButton: "suvagray - r"
-  debugPc: "- cyan"
+  # debugPc: "- cyan"
+  debugPc: "- light_green"
   debugBreakpoint: "red - r"
 
   GitSignsAdd: "#587C0C"
