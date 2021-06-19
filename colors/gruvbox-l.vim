@@ -212,7 +212,7 @@ hi diffFileId guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=bold,reverse 
 hi diffFile guifg=#3b4048 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi diffNewFile guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi diffOldFile guifg=#b65619 ctermfg=130 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi debugPc guifg=NONE ctermfg=NONE guibg=#83a598 ctermbg=108 gui=NONE cterm=NONE
+hi debugPc guifg=NONE ctermfg=NONE guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
 hi debugBreakpoint guifg=#b65619 ctermfg=130 guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi GitSignsAdd guifg=#587c0c ctermfg=64 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi GitSignsChange guifg=#0c7d9d ctermfg=31 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

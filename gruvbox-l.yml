@@ -352,7 +352,7 @@ highlights:
   # ToolbarLine: ". darkgray"
   # ToolbarButton: "suvagray - r"
   # debugPc: "- cyan"
-  debugPc: "- light_green"
+  debugPc: "- bg0"
   debugBreakpoint: "red - r"
 
   GitSignsAdd: "#587C0C"
