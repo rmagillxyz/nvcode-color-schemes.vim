@@ -27,7 +27,7 @@ hi Keyword guifg=#b65619 ctermfg=130 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Exception guifg=#b65619 ctermfg=130 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi PreProc guifg=#7daea3 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Include guifg=#7daea3 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Define guifg=#83a598 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Define guifg=#7daea3 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Title guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Macro guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi PreCondit guifg=#7daea3 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -271,3 +271,4 @@ hi HopNextKey guifg=#1da1f2 ctermfg=39 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi HopNextKey1 guifg=#b8bb26 ctermfg=142 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi HopNextKey2 guifg=#fe8019 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi HopUnmatched guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi HighlightedyankRegion guifg=NONE ctermfg=NONE guibg=#1da1f2 ctermbg=39 gui=NONE cterm=NONE
