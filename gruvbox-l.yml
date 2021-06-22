@@ -16,6 +16,7 @@ palette:
   bg2: "#504945"
   bg3: "#665c54"
   bg4: "#7c6f64"
+  Grey37: "#5f5f5f"
   orange: "#d65d0e"
 
   bg0_s: "#282651"
