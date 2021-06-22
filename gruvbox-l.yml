@@ -434,6 +434,7 @@ highlights:
   HopUnmatched: "vertsplit"         
 
   HighlightedyankRegion: "- vivid_blue" 
+  Floaterm: "- Grey37"
 
     # highlight HighlightedyankRegion cterm=reverse gui=reverse
 
