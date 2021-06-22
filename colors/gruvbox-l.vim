@@ -272,4 +272,4 @@ hi HopNextKey1 guifg=#b8bb26 ctermfg=142 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi HopNextKey2 guifg=#fe8019 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi HopUnmatched guifg=#4c566a ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi HighlightedyankRegion guifg=NONE ctermfg=NONE guibg=#1da1f2 ctermbg=39 gui=NONE cterm=NONE
-hi Floaterm guifg=NONE ctermfg=NONE guibg=#5f5f5f ctermbg=59 gui=NONE cterm=NONE
+hi Floaterm guifg=NONE ctermfg=NONE guibg=#504945 ctermbg=239 gui=NONE cterm=NONE
