@@ -76,7 +76,7 @@ palette:
   menu_grey: "#434C5E"
   special_grey: "#3B4048"
   # vertsplit: "#4C566A"
-  vertsplit: '#a89984'
+  vertsplit: "#54635d"
   warning_orange: "#ff8800"
   info_yellow: "#FFCC66"
   vivid_blue: "#1da1f2"
