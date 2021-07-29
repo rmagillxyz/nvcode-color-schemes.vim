@@ -5,10 +5,7 @@ information:
 
 palette:
   fg: "#EBDBB2"
-  # fg: '#f2e5bc'
-  # bg: '#32302f'
   bg: '#363636'
-  # bg: "#3c3836"
   
   bh0_h: "#1d2021"
   bg0: "#282828"
@@ -16,7 +13,6 @@ palette:
   bg2: "#504945"
   bg3: "#665c54"
   bg4: "#7c6f64"
-  # Grey37: "#5f5f5f"
   orange: "#d65d0e"
 
   bg0_s: "#282651"
@@ -25,58 +21,34 @@ palette:
   fg2: "#d5c4a1"
   fg1: "#ebdbb2"
 
-  # error_red: "#CC230D"
   error_red: "#fb5002"
   faded_red: "#F44747"
   faded_red: '#fb4934'
-  # faded_red: '#9d0006'
   red: "#b65619"
-  # red: "#fb5002"
-  # red: "#fb4934"
   green: "#98971a"
   yellow_orange: "#fe8019"
   yellow: "#fabd2f"
   purple: "#b16286"
-  # purple: "#d3869b"
-  # light_blue: "#81B88B"
   light_blue: "#83a598"
   aqua: "#7daea3"
-  # aqua: "#8ec07c"
   grey: "#a89984"
   faded_purple: "#7c5872"
   green_2: "#b8bb26"
-  # cyan: "#8ec07c"
-  # cyan: "#00ffff"
   cyan: "#33c6bd"
-  # cyan: '#689d6a'
   blue: '#458588'
-  # vivid_blue: '#458588'
 
   git_green: "#689d6a"
-  # ----
   light_green: "#83a598"
   dark_yellow: "#fabd2f"
-  # faded_purple: "#81A1C1"
-  # white: "#D8DEE9"
   white: "#bdae93"
-  # white: '#a89984'
-  # white: '#63686d'
   black: "#3b4252"
   line_grey: "#5C6370"
   gutter_fg_grey: "#6A6E7E"
-  # cursor_grey: '#4f5962'
   cursor_grey: '#464746'
-  # cursor_grey: "#4b5953"
-  # cursor_grey: "#3e4743"
-  # cursor_grey: "#54635d"
-  # cursor_grey: "#2C323C"
-  # cursor_grey: "#783228"
 
   visual_grey: "#3E4452"
   menu_grey: "#434C5E"
   special_grey: "#3B4048"
-  # vertsplit: "#4C566A"
-  # vertsplit: "#54635d"
   vertsplit: '#63686d'
   warning_orange: "#ff8800"
   info_yellow: "#FFCC66"
@@ -84,14 +56,43 @@ palette:
   symlink: "#29b8c2"
   executable: "#23D18B"
   tabfill: "#292D38"
-  # bg_inactive: "#2F343F"
-  # bg_inactive: "#3b4252"
-  # bg_inactive: "#595e68"
-  # bg_inactive: "#AEAFAD"
   bg_inactive: "#504946"
   cursor_fg: "#515052"
   cursor_bg: "#AEAFAD"
   indentlinehighlight: "#767A8B"
+
+
+  # fg: '#f2e5bc'
+  # bg: '#32302f'
+  # bg: "#3c3836"
+  # Grey37: "#5f5f5f"
+  # error_red: "#CC230D"
+  # faded_red: '#9d0006'
+  # red: "#fb5002"
+  # red: "#fb4934"
+  # purple: "#d3869b"
+  # light_blue: "#81B88B"
+  # aqua: "#8ec07c"
+  # cyan: "#8ec07c"
+  # cyan: "#00ffff"
+  # cyan: '#689d6a'
+  # vivid_blue: '#458588'
+  # faded_purple: "#81A1C1"
+  # white: "#D8DEE9"
+  # white: '#a89984'
+  # white: '#63686d'
+  # cursor_grey: '#4f5962'
+  # cursor_grey: "#4b5953"
+  # cursor_grey: "#3e4743"
+  # cursor_grey: "#54635d"
+  # cursor_grey: "#2C323C"
+  # cursor_grey: "#783228"
+  # vertsplit: "#4C566A"
+  # vertsplit: "#54635d"
+  # bg_inactive: "#2F343F"
+  # bg_inactive: "#3b4252"
+  # bg_inactive: "#595e68"
+  # bg_inactive: "#AEAFAD"
 #     "black": "#3b4252",
 #     "brightBlack": "#4c566a",
 #     "brightWhite": "#eceff4",
