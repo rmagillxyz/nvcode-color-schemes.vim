@@ -171,7 +171,7 @@ highlights:
   Question: "purple"
   QuickFixLine: "- line_grey"
   # Search: "- line_grey"
-  Search: "- git_green"
+  Search: "- bg0"
   SpecialKey: "special_grey"
   SpellBad: "error_red - u"
   SpellCap: "dark_yellow"
