@@ -9,7 +9,7 @@ let g:colors_name='gruvbox-l'
 
 hi FloatermNC guifg=#a89984 ctermfg=138 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#ebdbb2 ctermfg=223 guibg=#363636 ctermbg=237 gui=NONE cterm=NONE
-hi Comment guifg=#ebdbb2 ctermfg=223 guibg=#63686d ctermbg=242 gui=NONE cterm=NONE
+hi Comment guifg=#63686d ctermfg=242 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#83a598 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#d65d0e ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -36,7 +36,7 @@ hi StorageClass guifg=#d65d0e ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm
 hi Structure guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Typedef guifg=#fe8019 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Special guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=italic cterm=italic
-hi SpecialComment guifg=#ebdbb2 ctermfg=223 guibg=#63686d ctermbg=242 gui=NONE cterm=NONE
+hi SpecialComment guifg=#63686d ctermfg=242 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Error guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=bold,reverse cterm=bold,reverse
 hi Todo guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui=bold,italic cterm=bold,italic
 hi Underlined guifg=#33c6bd ctermfg=79 gui=underline cterm=underline
@@ -53,7 +53,7 @@ hi DiffChange guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=underline ct
 hi DiffDelete guifg=#3b4252 ctermfg=238 guibg=#fb4934 ctermbg=203 gui=NONE cterm=NONE
 hi DiffText guifg=#3b4252 ctermfg=238 guibg=#fabd2f ctermbg=214 gui=NONE cterm=NONE
 hi ErrorMsg guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi VertSplit guifg=#ebdbb2 ctermfg=223 guibg=#63686d ctermbg=242 gui=NONE cterm=NONE
+hi VertSplit guifg=#63686d ctermfg=242 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Folded guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi FoldColumn guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi IncSearch guifg=NONE ctermfg=NONE guibg=#458588 ctermbg=66 gui=NONE cterm=NONE
@@ -65,7 +65,7 @@ hi PmenuSbar guifg=NONE ctermfg=NONE guibg=#3b4048 ctermbg=238 gui=NONE cterm=NO
 hi PmenuThumb guifg=NONE ctermfg=NONE guibg=#bdae93 ctermbg=144 gui=NONE cterm=NONE
 hi Question guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi QuickFixLine guifg=NONE ctermfg=NONE guibg=#5c6370 ctermbg=241 gui=NONE cterm=NONE
-hi Search guifg=NONE ctermfg=NONE guibg=#5c6370 ctermbg=241 gui=NONE cterm=NONE
+hi Search guifg=NONE ctermfg=NONE guibg=#689d6a ctermbg=71 gui=NONE cterm=NONE
 hi SpecialKey guifg=#3b4048 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellBad guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi SpellCap guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -84,7 +84,7 @@ hi VisualNOS guifg=#3e4452 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi WarningMsg guifg=#fabd2f ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#3b4252 ctermfg=238 guibg=#458588 ctermbg=66 gui=NONE cterm=NONE
 hi EndOfBuffer guifg=#363636 ctermfg=237 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSComment guifg=#ebdbb2 ctermfg=223 guibg=#63686d ctermbg=242 gui=NONE cterm=NONE
+hi TSComment guifg=#63686d ctermfg=242 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi TSError guifg=#fb5002 ctermfg=202 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctDelimiter guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctBracket guifg=#bdae93 ctermfg=144 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

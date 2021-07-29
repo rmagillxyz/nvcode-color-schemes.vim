@@ -42,7 +42,6 @@ palette:
   dark_yellow: "#fabd2f"
   white: "#bdae93"
   black: "#3b4252"
-  line_grey: "#5C6370"
   gutter_fg_grey: "#6A6E7E"
   cursor_grey: '#464746'
 
@@ -50,6 +49,7 @@ palette:
   menu_grey: "#434C5E"
   special_grey: "#3B4048"
   vertsplit: '#63686d'
+  line_grey: '#5C6370'
   warning_orange: "#ff8800"
   info_yellow: "#FFCC66"
   vivid_blue: "#1da1f2"
@@ -106,7 +106,7 @@ highlights:
   FloatermNC: 'fg4'
   Normal: "fg bg"
 
-  Comment: "fg vertsplit"
+  Comment: "vertsplit - i"
   Constant: "yellow"
   String: "light_blue"
   Character: "orange"
@@ -138,7 +138,7 @@ highlights:
   Typedef: "yellow_orange"
   Special: "blue - i"
   # SpecialComment: "vertsplit"
-  SpecialComment: "fg vertsplit"
+  SpecialComment: "vertsplit - i"
   Error: "error_red - br"
   Todo: "purple - bi"
   Underlined: "cyan . u"
@@ -158,7 +158,7 @@ highlights:
   DiffText: "black yellow"
   ErrorMsg: "error_red"
   # VertSplit: "vertsplit"
-  VertSplit: "fg vertsplit"
+  VertSplit: "vertsplit - i"
   Folded: "line_grey"
   FoldColumn: ""
   IncSearch: "- blue"
@@ -170,7 +170,8 @@ highlights:
   PmenuThumb: "- white"
   Question: "purple"
   QuickFixLine: "- line_grey"
-  Search: "- line_grey"
+  # Search: "- line_grey"
+  Search: "- git_green"
   SpecialKey: "special_grey"
   SpellBad: "error_red - u"
   SpellCap: "dark_yellow"
@@ -193,7 +194,7 @@ highlights:
 
   # -- Start Treesitter --
   # Misc
-  TSComment: "fg vertsplit"
+  TSComment: "vertsplit - i"
   TSError: "error_red"
   TSPunctDelimiter: "white"
   TSPunctBracket: "white"
