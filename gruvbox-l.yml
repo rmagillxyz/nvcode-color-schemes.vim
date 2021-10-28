@@ -144,7 +144,8 @@ highlights:
   Underlined: "cyan . u"
   Cursor: "cursor_fg cursor_bg"
 
-  ColorColumn: "- cursor_grey"
+  # ColorColumn: "- cursor_grey"
+  ColorColumn: "- bg2"
   CursorLineNr: "white - b"
   SignColumn: "- bg"
   Conceal: "line_grey"
